@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentBuilder", "FluentBuil
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChildBuilder", "ChildBuilder\ChildBuilder.csproj", "{4C853060-81B5-4DB2-9FED-5E78072D1D8B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgressiveBuilder", "IterativeBuilder\ProgressiveBuilder.csproj", "{BEEA10A2-8C07-40D9-B3A7-FA727D307E19}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{4C853060-81B5-4DB2-9FED-5E78072D1D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C853060-81B5-4DB2-9FED-5E78072D1D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C853060-81B5-4DB2-9FED-5E78072D1D8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEEA10A2-8C07-40D9-B3A7-FA727D307E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEEA10A2-8C07-40D9-B3A7-FA727D307E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEEA10A2-8C07-40D9-B3A7-FA727D307E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEEA10A2-8C07-40D9-B3A7-FA727D307E19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
