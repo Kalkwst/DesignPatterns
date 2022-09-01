@@ -8,7 +8,7 @@ Below is a list of individual posts:
 
 ## :hammer: Creational Patterns
 [Abstract Factory]()<br/>
-[Builder]()<br/>
+[Builder](https://dfordebugging.wordpress.com/2022/08/30/builder-pattern-in-c/)<br/>
 [Factory Method]()<br/>
 [Prototype]()<br/>
 [Singleton]()<br/>
