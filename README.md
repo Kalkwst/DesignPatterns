@@ -17,7 +17,7 @@ Below is a list of individual posts:
 [Adapter]() <br/>
 [Bridge]()<br/>
 [Composite]()<br/>
-[Decorator]()<br/>
+[Decorator](https://dfordebugging.wordpress.com/2022/09/01/decorator-pattern-in-c/)<br/>
 [Facade]()<br/>
 [Flyweight]()<br/>
 [Proxy]()<br/>
