@@ -1,6 +1,6 @@
 # Design Patterns
 
-In this repository you can find all the example projects for the blog post series **Design Patterns** that can be found [here]() and [here](),
+In this repository you can find all the example projects for the blog post series **Design Patterns** that can be found [here](https://dfordebugging.wordpress.com/tag/design-patterns/) and [here](https://dev.to/kalkwst/series/19540),
 
 This series covers 22 of the Gang of Four's design patterns. You can also find variants of these design patterns. 
 
