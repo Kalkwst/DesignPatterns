@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProgressiveBuilder", "Itera
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{E272C7F7-4E45-4C4F-90B6-725BF777756A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Composite.csproj", "{2682CF12-C264-40C1-B0CB-21EB8460C101}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{E272C7F7-4E45-4C4F-90B6-725BF777756A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E272C7F7-4E45-4C4F-90B6-725BF777756A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E272C7F7-4E45-4C4F-90B6-725BF777756A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2682CF12-C264-40C1-B0CB-21EB8460C101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2682CF12-C264-40C1-B0CB-21EB8460C101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2682CF12-C264-40C1-B0CB-21EB8460C101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2682CF12-C264-40C1-B0CB-21EB8460C101}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
