@@ -16,7 +16,7 @@ Below is a list of individual posts:
 ## :building_construction: Structural Patterns
 [Adapter]() <br/>
 [Bridge]()<br/>
-[Composite]()<br/>
+[Composite](https://dfordebugging.wordpress.com/2022/09/04/composite-pattern-in-c/)<br/>
 [Decorator](https://dfordebugging.wordpress.com/2022/09/01/decorator-pattern-in-c/)<br/>
 [Facade]()<br/>
 [Flyweight]()<br/>
