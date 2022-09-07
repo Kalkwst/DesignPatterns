@@ -11,7 +11,7 @@ Below is a list of individual posts:
 [Builder](https://dfordebugging.wordpress.com/2022/08/30/builder-pattern-in-c/)<br/>
 [Factory Method]()<br/>
 [Prototype]()<br/>
-[Singleton]()<br/>
+[Singleton](https://dfordebugging.wordpress.com/2022/09/06/singleton-pattern-in-c/)<br/>
 
 ## :building_construction: Structural Patterns
 [Adapter]() <br/>
