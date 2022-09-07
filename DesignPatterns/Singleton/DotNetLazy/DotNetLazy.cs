@@ -8,5 +8,10 @@
         public static DotNetLazy Instance => lazy.Value;
 
         private DotNetLazy() { }
+
+        public void Ring()
+        {
+            Console.WriteLine("Ding! Order Up!");
+        }
     }
 }
