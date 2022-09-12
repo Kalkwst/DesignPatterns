@@ -5,8 +5,6 @@
     /// </summary>
     public class Cucumbers : Goods
     {
-        public static string Name = "Cucumbers";
-
         public Cucumbers(double pricePerKilo) : base(pricePerKilo)
         {
         }

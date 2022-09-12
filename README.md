@@ -26,7 +26,7 @@ Below is a list of individual posts:
 [Chain of Responsibility]()<br/>
 [Command]()<br/>
 [Iterator]()<br/>
-[Mediator]()<br/>
+[Mediator](https://dfordebugging.wordpress.com/2022/09/11/mediator-pattern-in-c/)<br/>
 [Memento]()<br/>
 [Observer]()<br/>
 [State]()<br/>
