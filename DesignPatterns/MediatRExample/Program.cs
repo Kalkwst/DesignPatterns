@@ -16,15 +16,7 @@ namespace MediatRExample
             var services = new ServiceCollection();
 
             services.AddSingleton<TextWriter>(writer);
-
             services.AddMediatR(typeof(Ping));
-
-            /*            
-
-                        services.AddScoped(typeof(IPipelineBehavior<,>), typeof(GenericPipelineBehavior<,>));
-                        services.AddScoped(typeof(IRequestPreProcessor<>), typeof(GenericRequestPreProcessor<>));
-                        services.AddScoped(typeof(IRequestPostProcessor<,>), typeof(GenericRequestPostProcessor<,>));
-                        services.AddScoped(typeof(IStreamPipelineBehavior<,>), typeof(GenericStreamPipelineBehavior<,>));*/
 
             var provider = services.BuildServiceProvider();
 
