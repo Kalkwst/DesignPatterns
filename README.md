@@ -32,4 +32,4 @@ Below is a list of individual posts:
 [State]()<br/>
 [Strategy]()<br/>
 [Template]()<br/>
-[Visitor]()<br/>
+[Visitor](https://dfordebugging.wordpress.com/2022/09/14/visitor-pattern-in-c/)<br/>
