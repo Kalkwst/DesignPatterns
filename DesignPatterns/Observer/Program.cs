@@ -1,5 +1,4 @@
-﻿// Create price watch for cucumbers
-using Observer.Observers;
+﻿using Observer.Observers;
 using Observer.Subjects;
 
 Restaurant bobsBurgers = new Restaurant("Bob's Burgers");
