@@ -1,6 +1,6 @@
-﻿// Non-adapted
-using Adapter;
+﻿using Adapter;
 
+// Non-adapted
 Meats unknown = new Meats("Beef");
 unknown.LoadData();
 
