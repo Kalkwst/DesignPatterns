@@ -14,7 +14,7 @@ Below is a list of individual posts:
 [Singleton](https://dfordebugging.wordpress.com/2022/09/06/singleton-pattern-in-c/)<br/>
 
 ## :building_construction: Structural Patterns
-[Adapter]() <br/>
+[Adapter](https://dfordebugging.wordpress.com/2022/09/21/adapter-pattern-in-c/) <br/>
 [Bridge]()<br/>
 [Composite](https://dfordebugging.wordpress.com/2022/09/04/composite-pattern-in-c/)<br/>
 [Decorator](https://dfordebugging.wordpress.com/2022/09/01/decorator-pattern-in-c/)<br/>
