@@ -31,7 +31,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisitorDoubleDispatch", "Vi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adapter", "Adapter\Adapter.csproj", "{FF97250B-7739-4B19-82C8-1A67E383BDC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State", "State\State.csproj", "{1A8B1EE3-B5CF-4D34-B9AD-F838452D8A08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "State", "State\State.csproj", "{1A8B1EE3-B5CF-4D34-B9AD-F838452D8A08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{577A22F6-8F77-4CC1-B4AD-8A51B53C8CD5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{1A8B1EE3-B5CF-4D34-B9AD-F838452D8A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A8B1EE3-B5CF-4D34-B9AD-F838452D8A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A8B1EE3-B5CF-4D34-B9AD-F838452D8A08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{577A22F6-8F77-4CC1-B4AD-8A51B53C8CD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{577A22F6-8F77-4CC1-B4AD-8A51B53C8CD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{577A22F6-8F77-4CC1-B4AD-8A51B53C8CD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{577A22F6-8F77-4CC1-B4AD-8A51B53C8CD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
