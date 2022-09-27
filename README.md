@@ -7,7 +7,7 @@ This series covers 22 of the Gang of Four's design patterns. You can also find v
 Below is a list of individual posts:
 
 ## :hammer: Creational Patterns
-[Abstract Factory]()<br/>
+[Abstract Factory](https://dfordebugging.wordpress.com/2022/09/24/abstract-factory-in-c/)<br/>
 [Builder](https://dfordebugging.wordpress.com/2022/08/30/builder-pattern-in-c/)<br/>
 [Factory Method](https://dfordebugging.wordpress.com/2022/09/07/factory-method-pattern-in-c/)<br/>
 [Prototype]()<br/>
