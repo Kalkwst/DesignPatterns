@@ -39,7 +39,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iterator", "Iterator\Iterat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bridge", "Bridge\Bridge.csproj", "{A44A8108-2B4C-42A3-BC2B-718369A93803}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento", "Memento\Memento.csproj", "{3D83D684-277F-481E-A845-2A080E58CD04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Memento", "Memento\Memento.csproj", "{3D83D684-277F-481E-A845-2A080E58CD04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{9832C1A7-644F-4280-A3DC-DA6DC3986C7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{3D83D684-277F-481E-A845-2A080E58CD04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D83D684-277F-481E-A845-2A080E58CD04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D83D684-277F-481E-A845-2A080E58CD04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9832C1A7-644F-4280-A3DC-DA6DC3986C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9832C1A7-644F-4280-A3DC-DA6DC3986C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9832C1A7-644F-4280-A3DC-DA6DC3986C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9832C1A7-644F-4280-A3DC-DA6DC3986C7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
