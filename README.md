@@ -27,7 +27,7 @@ Below is a list of individual posts:
 [Command]()<br/>
 [Iterator](https://dfordebugging.wordpress.com/2022/09/28/iterator-pattern-in-c/)<br/>
 [Mediator](https://dfordebugging.wordpress.com/2022/09/11/mediator-pattern-in-c/)<br/>
-[Memento]()<br/>
+[Memento](https://dfordebugging.wordpress.com/2022/10/07/memento-pattern-in-c/)<br/>
 [Observer](https://dfordebugging.wordpress.com/2022/09/13/observer-pattern-in-c/)<br/>
 [State](https://dfordebugging.wordpress.com/2022/09/22/state-pattern-in-c/)<br/>
 [Strategy]()<br/>
