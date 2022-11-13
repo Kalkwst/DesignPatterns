@@ -30,6 +30,6 @@ Below is a list of individual posts:
 [Memento](https://dfordebugging.wordpress.com/2022/10/07/memento-pattern-in-c/)<br/>
 [Observer](https://dfordebugging.wordpress.com/2022/09/13/observer-pattern-in-c/)<br/>
 [State](https://dfordebugging.wordpress.com/2022/09/22/state-pattern-in-c/)<br/>
-[Strategy]()<br/>
+[Strategy](https://dfordebugging.wordpress.com/2022/11/07/strategy-pattern-in-c/)<br/>
 [Template]()<br/>
 [Visitor](https://dfordebugging.wordpress.com/2022/09/14/visitor-pattern-in-c/)<br/>
