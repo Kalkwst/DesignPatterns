@@ -1,4 +1,4 @@
-﻿namespace Prototype;
+﻿namespace PrototypeRegistry.Shapes;
 
 public class Rectangle : Shape
 {

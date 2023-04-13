@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Prototype\Prototype.csproj", "{F470B377-22F1-4781-B782-7902CA9BC988}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypeRegistry", "PrototypeRegistry\PrototypeRegistry.csproj", "{43A4EFF6-76C4-4799-838C-EE476055282D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{F470B377-22F1-4781-B782-7902CA9BC988}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F470B377-22F1-4781-B782-7902CA9BC988}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F470B377-22F1-4781-B782-7902CA9BC988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43A4EFF6-76C4-4799-838C-EE476055282D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A4EFF6-76C4-4799-838C-EE476055282D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A4EFF6-76C4-4799-838C-EE476055282D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A4EFF6-76C4-4799-838C-EE476055282D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

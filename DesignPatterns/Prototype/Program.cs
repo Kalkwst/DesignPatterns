@@ -1,52 +1,55 @@
-﻿using Prototype.Shapes;
+﻿using System;
+using System.Collections.Generic;
+using Prototype;
 
-var shapes = new List<Shape>();
-var clones = new List<Shape>();
-
-var circle = new Circle
+public class Program
 {
-    X = 10,
-    Y = 20,
-    Color = "red",
-    Radius = 12
-};
-shapes.Add(circle);
-shapes.Add(circle.Clone());
-
-var rectangle = new Rectangle
-{
-    X = 12,
-    Y = 23,
-    Color = "blue",
-    Height = 32,
-    Width = 12
-};
-shapes.Add(rectangle);
-shapes.Add(rectangle.Clone());
-
-CloneAndCompare(shapes, clones);
-
-void CloneAndCompare(IReadOnlyList<Shape> shapes, List<Shape> clones)
-{
-    clones.AddRange(shapes.Select(shape => shape.Clone()));
-
-    for (var i = 0; i < shapes.Count; i++)
+    public static void Main(string[] args)
     {
-        if (shapes[i] != clones[i])
+        List<Shape> shapes = new List<Shape>();
+        List<Shape> shapesCopy = new List<Shape>();
+
+        Circle circle = new Circle();
+        circle.x = 10;
+        circle.y = 20;
+        circle.Radius = 15;
+        circle.color = "red";
+        shapes.Add(circle);
+
+        Circle anotherCircle = (Circle)circle.Clone();
+        shapes.Add(anotherCircle);
+
+        Rectangle rectangle = new Rectangle();
+        rectangle.Width = 10;
+        rectangle.Height = 20;
+        rectangle.color = "blue";
+        shapes.Add(rectangle);
+
+        cloneAndCompare(shapes, shapesCopy);
+    }
+
+    private static void cloneAndCompare(List<Shape> shapes, List<Shape> shapesCopy)
+    {
+        shapesCopy.AddRange(shapes.Select(shape => shape.Clone()));
+
+        for (var i = 0; i < shapes.Count; i++)
         {
-            Console.WriteLine($"Index {i}: Shapes are different objects!");
-            if (shapes[i].Equals(clones[i]))
+            if (shapes[i] != shapesCopy[i])
             {
-                Console.WriteLine($"Index {i}: And they are identical!");
+                Console.WriteLine(i + ": Shapes are different objects (Exquisite!)");
+                if (shapes[i].Equals(shapesCopy[i]))
+                {
+                    Console.WriteLine(i + ": And they are identical (Charming!)");
+                }
+                else
+                {
+                    Console.WriteLine(i + ": But they are not identical (Obscene!)");
+                }
             }
             else
             {
-                throw new Exception("Shapes are not identical");
+                Console.WriteLine(i + ": Shape objects are the same (Indecorous!)");
             }
-        }
-        else
-        {
-            throw new Exception("Shape objects are the same!");
         }
     }
 }
