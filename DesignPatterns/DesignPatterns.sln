@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypeRegistry", "Protot
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{EC32710E-6888-4339-A444-2687DEEB4ECB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{22F630B8-BC04-4075-AD51-5CE5DD8A5613}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{EC32710E-6888-4339-A444-2687DEEB4ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC32710E-6888-4339-A444-2687DEEB4ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC32710E-6888-4339-A444-2687DEEB4ECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22F630B8-BC04-4075-AD51-5CE5DD8A5613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22F630B8-BC04-4075-AD51-5CE5DD8A5613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22F630B8-BC04-4075-AD51-5CE5DD8A5613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22F630B8-BC04-4075-AD51-5CE5DD8A5613}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
