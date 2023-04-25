@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{22F630B8-BC04-4075-AD51-5CE5DD8A5613}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{A923FDF5-D237-47E6-A88D-899938CC19A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{22F630B8-BC04-4075-AD51-5CE5DD8A5613}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22F630B8-BC04-4075-AD51-5CE5DD8A5613}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22F630B8-BC04-4075-AD51-5CE5DD8A5613}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A923FDF5-D237-47E6-A88D-899938CC19A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A923FDF5-D237-47E6-A88D-899938CC19A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A923FDF5-D237-47E6-A88D-899938CC19A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A923FDF5-D237-47E6-A88D-899938CC19A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
