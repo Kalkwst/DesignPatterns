@@ -10,7 +10,7 @@ Below is a list of individual posts:
 [Abstract Factory](https://dfordebugging.wordpress.com/2022/09/24/abstract-factory-in-c/)<br/>
 [Builder](https://dfordebugging.wordpress.com/2022/08/30/builder-pattern-in-c/)<br/>
 [Factory Method](https://dfordebugging.wordpress.com/2022/09/07/factory-method-pattern-in-c/)<br/>
-[Prototype]()<br/>
+[Prototype](https://dfordebugging.wordpress.com/2023/04/13/prototype-pattern-in-c/)<br/>
 [Singleton](https://dfordebugging.wordpress.com/2022/09/06/singleton-pattern-in-c/)<br/>
 
 ## :building_construction: Structural Patterns
@@ -18,9 +18,9 @@ Below is a list of individual posts:
 [Bridge](https://dfordebugging.wordpress.com/2022/10/04/bridge-pattern-in-c/)<br/>
 [Composite](https://dfordebugging.wordpress.com/2022/09/04/composite-pattern-in-c/)<br/>
 [Decorator](https://dfordebugging.wordpress.com/2022/09/01/decorator-pattern-in-c/)<br/>
-[Facade]()<br/>
+[Facade](https://dfordebugging.wordpress.com/2023/04/23/facade-pattern-in-c/)<br/>
 [Flyweight]()<br/>
-[Proxy]()<br/>
+[Proxy](https://dfordebugging.wordpress.com/2023/04/19/proxy-pattern-in-c/)<br/>
 
 ## :speech_balloon: Behavioral Patterns
 [Chain of Responsibility]()<br/>
