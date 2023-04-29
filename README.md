@@ -24,7 +24,7 @@ Below is a list of individual posts:
 
 ## :speech_balloon: Behavioral Patterns
 [Chain of Responsibility]()<br/>
-[Command]()<br/>
+[Command](https://dfordebugging.wordpress.com/2023/04/29/command-pattern-in-c/)<br/>
 [Iterator](https://dfordebugging.wordpress.com/2022/09/28/iterator-pattern-in-c/)<br/>
 [Mediator](https://dfordebugging.wordpress.com/2022/09/11/mediator-pattern-in-c/)<br/>
 [Memento](https://dfordebugging.wordpress.com/2022/10/07/memento-pattern-in-c/)<br/>
