@@ -31,5 +31,5 @@ Below is a list of individual posts:
 [Observer](https://dfordebugging.wordpress.com/2022/09/13/observer-pattern-in-c/)<br/>
 [State](https://dfordebugging.wordpress.com/2022/09/22/state-pattern-in-c/)<br/>
 [Strategy](https://dfordebugging.wordpress.com/2022/11/07/strategy-pattern-in-c/)<br/>
-[Template]()<br/>
+[Template Method](https://dfordebugging.wordpress.com/2023/04/25/template-method-in-c/)<br/>
 [Visitor](https://dfordebugging.wordpress.com/2022/09/14/visitor-pattern-in-c/)<br/>
