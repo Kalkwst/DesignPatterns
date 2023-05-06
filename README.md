@@ -23,7 +23,7 @@ Below is a list of individual posts:
 [Proxy](https://dfordebugging.wordpress.com/2023/04/19/proxy-pattern-in-c/)<br/>
 
 ## :speech_balloon: Behavioral Patterns
-[Chain of Responsibility]()<br/>
+[Chain of Responsibility](https://dfordebugging.wordpress.com/2023/05/05/chain-of-responsibility-pattern-in-c/)<br/>
 [Command](https://dfordebugging.wordpress.com/2023/04/29/command-pattern-in-c/)<br/>
 [Iterator](https://dfordebugging.wordpress.com/2022/09/28/iterator-pattern-in-c/)<br/>
 [Mediator](https://dfordebugging.wordpress.com/2022/09/11/mediator-pattern-in-c/)<br/>
